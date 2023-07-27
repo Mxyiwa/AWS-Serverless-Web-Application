@@ -25,11 +25,12 @@ This project is going to be built by configuring AWS Amplify to host the static 
 
 <h2>Steps</h2>
 
-- <b>Host a Static Website:</b> 
-- <b>Manage Users:</b>
-- <b>Build a Serverless Backend:</b>
-- <b>Deploy RESTful API:</b>
-- <b>Terminate Resources:</b>
+- <b>Host a Static Website:</b> Configure AWS Amplify to host the static resources for your web application with continuous deployment built in
+- <b>Manage Users:</b> Create an Amazon Cognito user pool to manage your users' accounts
+- <b>Build a Serverless Backend:</b> Build a backend process for handling requests for your web application
+- <b>Deploy RESTful API:</b> Use Amazon API Gateway to expose the Lambda function you built in the previous module as a RESTful API
+- <b>Terminate Resources:</b> Terminate all the resources you created throughout this tutorial
+
 
 
 <!--
