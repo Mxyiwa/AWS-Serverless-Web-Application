@@ -17,6 +17,9 @@ This project is going to be built by configuring AWS Amplify to host the static 
 <b>This application architecture is going to comprise of services such as;
 </b> 
 
+- <b>An AWS account</b>
+- <b>An ArcGis account</b> To add mapping to your app
+- <b>A text editor</b>
 - <b>AWS Lambda</b>
 - <b>Amazon API Gateway</b> 
 - <b>Amazon DynamoDB</b> Provides a persistence layer where data can be stored by the API's Lambda function
